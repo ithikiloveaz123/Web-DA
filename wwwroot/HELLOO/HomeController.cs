@@ -6,7 +6,7 @@ namespace Web_DA.wwwroot.HELLOO
     {
         public IActionResult Index()
         {
-            return View();
+            Index();
         }
     }
 }
